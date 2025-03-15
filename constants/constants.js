@@ -64,7 +64,7 @@ export const CONTACTS = {
 };
 export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/ahtsham05',
-  LINKEDIN: 'www.linkedin.com/in/ahtsham-ali-1933422b9',
+  LINKEDIN: 'https://www.linkedin.com/in/ahtsham-ali-1933422b9',
   TWITTER: '#',
   FACEBOOK: '#',
 };
